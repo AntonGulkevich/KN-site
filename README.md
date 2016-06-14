@@ -1,3 +1,3 @@
-#SRHD Brand New Dump Reader#
+#New prototype on Kontur-NIIRS site#
 
-![Image of Dump reader](https://github.com/AntonGulkevich/KN-site/screen/mainWindow.PNG "SRHD Dump Reader")
+![Image of main window](https://github.com/AntonGulkevich/KN-site/screen/mainWindow.PNG "Main menu screen")
