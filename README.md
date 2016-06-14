@@ -1,2 +1,3 @@
-# KN-site
-UI&amp;UX prototype of WEB site 
+#SRHD Brand New Dump Reader#
+
+![Image of Dump reader](https://github.com/AntonGulkevich/KN-site/screen/mainWindow.PNG "SRHD Dump Reader")
